@@ -1818,7 +1818,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2158d7;
+  background: #ff1fff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2694,4 +2694,7 @@ header {
 }
 .main {
   padding-bottom: 200px;
+}
+.busuanzi-value {
+  color: #1890ff;
 }
