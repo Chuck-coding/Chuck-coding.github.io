@@ -1818,7 +1818,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff;
+  background: #d96bff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2658,4 +2658,20 @@ embed {
 }
 .post-toc .nav .nav-level-1>.nav-child {
   display: block;
+}
+.sidebar-toggle {
+  left: 30px;
+}
+.sidebar {
+  left: 0px;
+}
+@media (max-width: 767px) {
+  #live2dcanvas {
+    display: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  #live2dcanvas {
+    display: none;
+  }
 }
